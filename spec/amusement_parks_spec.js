@@ -41,7 +41,7 @@ describe("Group by ID", function () {
 })
 
 describe("Index by Country", function () {
-  xit("returns a parks object by country", function () {
+  it("returns a parks object by country", function () {
     var data = [
       {
         id: 546,
